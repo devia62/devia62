@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding an Action Priority Determination based on Alerts raised by SLO violations
 - 🌱 I’m currently learning appsmith
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: devia@online.de
 
 <!---
 devia62/devia62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
